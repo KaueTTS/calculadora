@@ -8,6 +8,7 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 - [Tecnologias](#tecnologias)
+- [Como utilizar o projeto](#como-utilizar-o-projeto)
 - [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto
@@ -17,6 +18,11 @@
 ## Tecnologias
 
 <img width="140px" src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+## Como utilizar o projeto
+
+<p>1. Precisamos abrir o projeto no nosso VsCode.</p>
+<p>2. Instalar a extensão Live server e rodar com o projeto aberto.</p>
 
 ## Desenvolvedor
 
