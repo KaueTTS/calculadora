@@ -10,9 +10,17 @@ function clearDisplay(input) {
 
 function calculate() {
     try {
-        display.value = eval(display.value)
+        if (display.value.trim() === "") {
+            display.value = "";
+        } else {
+            display.value = eval(display.value)
+        }
     } 
     catch(error) {
         display.value = "Error"
+
+        setTimeout(function() {
+            display.value = "";
+        }, 1000);
     }
 }
