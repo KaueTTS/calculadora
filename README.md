@@ -17,7 +17,9 @@
 
 ## Tecnologias
 
-<img width="140px" src="https://skillicons.dev/icons?i=html,css,javascript" />
+<div width="140px">
+    <img width="140px" src="https://skillicons.dev/icons?i=html,css,javascript" />
+</div>
 
 ## Como utilizar o projeto
 
