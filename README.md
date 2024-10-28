@@ -4,16 +4,18 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
+> 🔔 ***Nota:** Esse projeto pode ter alterações no futuro.*
+
 ### Tópicos
 
 - [Descrição do projeto](#descrição-do-projeto)
 - [Tecnologias](#tecnologias)
 - [Como utilizar o projeto](#como-utilizar-o-projeto)
-- [Desenvolvedor](#desenvolvedor)
+- [Colaboradores](#colaboradores)
 
 ## Descrição do projeto
 
-Calculadora simples utilizando tecnologias básicas.
+Este projeto é uma calculadora para operações matemáticas básicas. O objetivo é criar uma interface simples e intuitiva, simulando uma calculadora tradicional, que permite realizar cálculos como adição, subtração, multiplicação e divisão diretamente no navegador.
 
 ## Tecnologias
 
@@ -23,8 +25,8 @@ Calculadora simples utilizando tecnologias básicas.
 
 ## Como utilizar o projeto
 
-**1.** Precisamos abrir o projeto no nosso VsCode.<br>
-**2.** Instalar a extensão Live server e rodar com o projeto aberto.<br>
+> **1.** Precisamos abrir o projeto no nosso VsCode.<br>
+> **2.** Instalar a extensão Live server e rodar com o projeto aberto.<br>
 
 ## Colaboradores
 
