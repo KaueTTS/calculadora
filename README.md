@@ -20,7 +20,7 @@ Este projeto é uma calculadora para operações matemáticas básicas. O objeti
 ## Tecnologias
 
 <div width="140px">
-    <img width="140px" src="https://skillicons.dev/icons?i=html,css,javascript,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" />
 </div>
 
 ## Como utilizar o projeto
