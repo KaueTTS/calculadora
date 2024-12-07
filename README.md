@@ -7,9 +7,6 @@
 > [!IMPORTANT]
 > *Esse projeto está concluído.*
 
-> [!COMPLETED]
-> *Esse projeto está concluído.*
-
 ### Tópicos
 
 - [Descrição do projeto](#descrição-do-projeto)
